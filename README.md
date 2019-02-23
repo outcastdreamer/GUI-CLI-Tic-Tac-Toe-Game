@@ -6,4 +6,4 @@ Kindly download tkinter manually in such scenario!
 
 Also since I am using, tkinter module, sometimes the pop boxes don't appear in the front (i.e, it is not set as active window when the pop-box appears) and has to be clicked on to input data. Besides all this the code should be working fine!
 
-Kindly inform me of any bugs if you find any!
+Kindly inform me if you find any bugs!!
